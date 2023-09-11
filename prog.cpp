@@ -3,7 +3,7 @@
 
 int main()
 {
-    std :: cout <<"well done" << std::endl;
+    std :: cout <<"well " << std::endl;
 
 
 }
